@@ -1,4 +1,4 @@
-# Exercise 1: Scrape SENS announcements from the JSE
+# Exercise 2: Scrape SENS announcements from the JSE
 
 ### About
 
