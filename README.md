@@ -4,12 +4,15 @@
 
 
 
-You will need to write a console application that is able to scrape SENS announcement data from the [JSE's website](https://clientportal.jse.co.za/communication/sens-announcements). The output of your application needs to be a a microsoft excel file (.xlsx) and the column headers need to be colured in green.
+You will need to write a console application that is able to scrape SENS announcement data from the [JSE's website](https://clientportal.jse.co.za/communication/sens-announcements) or an alternative data source.
+The output of your application needs to be a styled microsoft excel file (.xlsx) where the bacground of the column headers need to be colured in green.
+And the text in a bold. 
 
 
 ### Useful links:
 * JSE SENS Page: https://clientportal.jse.co.za/communication/sens-announcements
 * Moneyweb SENS Page (alternate data source): https://www.moneyweb.co.za/tools-and-data/moneyweb-sens/
+* Sharenet (alternate data source): https://www.sharenet.co.za/v3/sens.php
 
 
 
