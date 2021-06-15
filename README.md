@@ -27,4 +27,4 @@ WHERE
 * `sens_announcements_latest.xlsx`: is the name of the expected output file
 
 ### Example outputs
-As an output your console app should spit out a microsoft excel file containing the necessary data in a presentable format. Also, the column headers need to have a green background. See below image for example output
+As an output your console app should spit out a microsoft excel file containing the necessary data in a presentable format. Also, the column headers need to have a green background. See below image for example output file
