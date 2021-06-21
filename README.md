@@ -28,3 +28,4 @@ WHERE
 
 ### Example outputs
 As an output your console app should spit out a microsoft excel file containing the necessary data in a presentable format. Also, the column headers need to have a green background. See below image for example output file
+![alt text](https://drive.google.com/uc?export=download&id=1QCP2yQOCr9KmuRVYXBKez4RS_phgaKiH)
