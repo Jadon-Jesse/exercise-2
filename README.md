@@ -5,7 +5,7 @@
 
 
 You will need to write a console application that is able to scrape SENS announcement data from the [JSE's website](https://clientportal.jse.co.za/communication/sens-announcements) or an alternative data source.
-The output of your application needs to be a styled microsoft excel file (.xlsx) where the bacground of the column headers need to be colured in green.
+The output of your application needs to be a styled Microsoft excel file (.xlsx) where the background of the column headers need to be coloured in green.
 And the text in a bold. 
 
 
@@ -27,5 +27,5 @@ WHERE
 * `sens_announcements_latest.xlsx`: is the name of the expected output file
 
 ### Example outputs
-As an output your console app should spit out a microsoft excel file containing the necessary data in a presentable format. Also, the column headers need to have a green background. See below image for example output file
+As an output your console app should spit out a Microsoft excel file containing the necessary data in a presentable format. Also, the column headers need to have a green background. See below image for example output file
 ![alt text](https://drive.google.com/uc?export=download&id=1QCP2yQOCr9KmuRVYXBKez4RS_phgaKiH)
