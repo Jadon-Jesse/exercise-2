@@ -15,6 +15,9 @@ And the text in a bold.
 * Sharenet (alternate data source): https://www.sharenet.co.za/v3/sens.php
 
 
+### Constraints:
+* Your final console application needs to be a self contained executable and able to run on a Windows 10 machine
+
 
 ### Example inputs
 As an input, your console application should take in an optional argument called `output_filename` eg:
